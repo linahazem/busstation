@@ -1,0 +1,9 @@
+WELCOME! this is a BUS-station application
+the user can:
+1-login as a passenger
+2-book a trip with several options
+3-login in driver mode and manager mode
+4-show assigned trips
+5-cancel trips in passenger mode and manager mode
+6-assign trips as manager
+7- show your past trips
